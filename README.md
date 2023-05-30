@@ -58,3 +58,6 @@ The Shopware Installer Script will now be initiated and will perform the install
  versions on your home network or personal computer. Follow the instructions provided by the script to complete the installation process.
 
 This guide combines the benefits of the installer script with the corresponding instructions to make the installation of Shopware as easy and efficient as possible.
+
+If you want to support my work please consider a donation.
+My paypal mail address is: schuermann69@mein.gmx
