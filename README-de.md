@@ -50,6 +50,9 @@ Installationsanleitung:
    - Öffne ein Terminal oder eine SSH-Verbindung zum Server und wechsle in das Root-Verzeichnis mit dem Befehl "cd /".
    - Mache das Skript ausführbar mit dem Befehl "chmod +x sw6_5_installer.sh".
 
+
+Wenn Sie meine Arbeit unterstützen möchten, denken Sie bitte über eine Spende nach.
+Meine Paypal-Mailadresse lautet: schuermann69@mein.gmx
 6. Shopware-Installer-Skript ausführen:
    - Starte das Shopware-Installer-Skript mit den gewünschten Optionen.
    - Verwende den Befehl "./sw6_5_installer.sh -e", um das Skript auf Englisch auszuführen.
